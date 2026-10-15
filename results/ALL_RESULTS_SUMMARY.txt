@@ -1,0 +1,105 @@
+=== SAE-FSGP CL ANALYSIS SUMMARY ===
+Generated: Wed 01 Jul 2026 11:15:27 AM IST
+
+##################################################
+### DATASET: cifar100 | SEED: 0
+##################################################
+
+1. FEATURE FATE - LAYER4
+MISSING: fate_summary.json
+
+2. FORGETTING TRAJECTORY - COS_SIM TO PROTOTYPE
+MISSING: forgetting_trajectory
+
+3. VISUAL CONFIRMATION - ACTIVATION RETENTION
+MISSING: visual_confirmation
+
+4. ABLATION - SAE_FSGP vs DENSE_FSGP
+MISSING: ablation results
+
+
+##################################################
+### DATASET: cifar100 | SEED: 1
+##################################################
+
+1. FEATURE FATE - LAYER4
+MISSING: fate_summary.json
+
+2. FORGETTING TRAJECTORY - COS_SIM TO PROTOTYPE
+MISSING: forgetting_trajectory
+
+3. VISUAL CONFIRMATION - ACTIVATION RETENTION
+MISSING: visual_confirmation
+
+4. ABLATION - SAE_FSGP vs DENSE_FSGP
+MISSING: ablation results
+
+
+##################################################
+### DATASET: cifar100 | SEED: 2
+##################################################
+
+1. FEATURE FATE - LAYER4
+MISSING: fate_summary.json
+
+2. FORGETTING TRAJECTORY - COS_SIM TO PROTOTYPE
+MISSING: forgetting_trajectory
+
+3. VISUAL CONFIRMATION - ACTIVATION RETENTION
+MISSING: visual_confirmation
+
+4. ABLATION - SAE_FSGP vs DENSE_FSGP
+MISSING: ablation results
+
+
+##################################################
+### DATASET: tinyimagenet | SEED: 0
+##################################################
+
+1. FEATURE FATE - LAYER4
+MISSING: fate_summary.json
+
+2. FORGETTING TRAJECTORY - COS_SIM TO PROTOTYPE
+MISSING: forgetting_trajectory
+
+3. VISUAL CONFIRMATION - ACTIVATION RETENTION
+MISSING: visual_confirmation
+
+4. ABLATION - SAE_FSGP vs DENSE_FSGP
+MISSING: ablation results
+
+
+##################################################
+### DATASET: tinyimagenet | SEED: 1
+##################################################
+
+1. FEATURE FATE - LAYER4
+MISSING: fate_summary.json
+
+2. FORGETTING TRAJECTORY - COS_SIM TO PROTOTYPE
+MISSING: forgetting_trajectory
+
+3. VISUAL CONFIRMATION - ACTIVATION RETENTION
+MISSING: visual_confirmation
+
+4. ABLATION - SAE_FSGP vs DENSE_FSGP
+MISSING: ablation results
+
+
+##################################################
+### DATASET: tinyimagenet | SEED: 2
+##################################################
+
+1. FEATURE FATE - LAYER4
+MISSING: fate_summary.json
+
+2. FORGETTING TRAJECTORY - COS_SIM TO PROTOTYPE
+MISSING: forgetting_trajectory
+
+3. VISUAL CONFIRMATION - ACTIVATION RETENTION
+MISSING: visual_confirmation
+
+4. ABLATION - SAE_FSGP vs DENSE_FSGP
+MISSING: ablation results
+
+
